@@ -13,7 +13,7 @@ Create a container
 
 The first step is to create a container where applications can be installed:
 
-Open Settings and scroll down to *Libertine* under the *System* sub-heading.
+Open Settings and scroll down to *Battery* under the *System* sub-heading and change *Lock when idle* to *Never* remember to change this back to your chosen setting when you have finished, then scroll down to *Libertine* .
 
 Tap *Libertine* to get to the *Manage Libertine Containers* sub-menu. If you have other containers already installed, they will be visible here. Tap the + sign at the upper right to add a container.
 
